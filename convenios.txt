@@ -1,0 +1,2 @@
+42;VMED;Empresarial;Ativo;21 1234 - 5678;atendimento@vmed.com.br
+123;UVA;Individual;Ativo;21 9999999999;Uva@uva.com.br

@@ -1,0 +1,2 @@
+123;vitor;VITOR;123;209;10/09/2025;08:00;ECG;VMED
+159753;Lucas;Lazaro;789;205;11/09/2025;09:00;Clinico Geral;Não informado

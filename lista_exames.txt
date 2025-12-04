@@ -1,0 +1,6 @@
+ECG;Exame
+Pressão Arterial (MAPA);Exame
+Ex. Prostata;Exame
+Cardiologista;Consulta
+Clinico Geral;Consulta
+Urologista;Consulta
