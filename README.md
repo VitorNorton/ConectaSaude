@@ -54,8 +54,5 @@ O sistema gera e gerencia os seguintes arquivos na raiz do projeto:
 -   `lista_exames.txt`: Catálogo de procedimentos disponíveis.
 -   `exames.txt`: Histórico de exames realizados.
 
-## 👥 Equipe de Desenvolvimento
-
-
 ---
 Feito com ☕ e Java.
